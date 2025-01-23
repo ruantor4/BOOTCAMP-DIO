@@ -1,4 +1,4 @@
-package br.com.torquato;
+package br.com.torquato.dio;
 
 public class Main {
     public static void main(String[] args) {
